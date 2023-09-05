@@ -40,7 +40,7 @@ export function Hero (){
                 href="EED.pdf"
                 download="EED.pdf"
                 target="_blank"
-                className="button flex items-center gap-2 text-blue-600 hover:text-gray-900"
+                className="button flex items-center gap-2 text-orange-600 hover:text-gray-900"
               >
                 
                 Baixe meu CV
