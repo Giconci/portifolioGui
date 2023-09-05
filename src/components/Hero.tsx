@@ -36,14 +36,15 @@ export function Hero (){
                 Fale comigo
               </a>
               <span className="italic text-gray-500">ou</span>
-              <a
-                href="#"
+              <button><a
+                href="EED.pdf"
+                download="EED.pdf"
                 target="_blank"
-                className="button flex items-center gap-2 text-gray-600 hover:text-gray-900"
+                className="button flex items-center gap-2 text-orange-600 hover:text-gray-900"
               >
                 
                 Baixe meu CV
-              </a>
+              </a></button>
             </div>
           </div>
 
